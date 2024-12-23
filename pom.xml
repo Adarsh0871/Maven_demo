@@ -207,14 +207,14 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git:https://github.com/homesh1994/abc.git</connection>
-    <developerConnection>scm:git:https://github.com/homesh1994/abc.git</developerConnection>
+    <connection>scm:git:https://github.com/Adarsh0871/Maven_demo.git</connection>
+    <developerConnection>scm:git:https://github.com/Adarsh0871/Maven_demo.git</developerConnection>
     <tag>HEAD</tag>
-    <url>https://github.com/homesh1994/abc.git</url>
+    <url>https://github.com/Adarsh0871/Maven_demo.git</url>
   </scm>
 
   <prerequisites>
-    <maven>3.9.9</maven>
+    <maven>3.6.3</maven>
   </prerequisites>
 
 </project>
